@@ -8,7 +8,6 @@ const awards = [
   { title: "Project Saadhana (Google Cloud Initiative)", detail: "Winner", year: "2024" },
   { title: "Red Bull Basement", detail: "National Participant", year: "2024" },
   { title: "College Project Expo", detail: "1st Prize, Technical Presentation", year: "2024" },
-  { title: "Buzzler Technologies", detail: "Professional Job Offer", year: "2023" }
 ];
 
 const Recognition = () => {
